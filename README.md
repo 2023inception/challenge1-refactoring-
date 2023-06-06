@@ -9,3 +9,6 @@ Added the following elements, nav, header, footer, and alt tags to images.
 
 #link to delpoyed application
 https://2023inception.github.io/challenge1-refactoring-/
+
+##Code Source
+/Users/mr.e/bootcamp/challenge1-refactoring 
